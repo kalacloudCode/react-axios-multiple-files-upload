@@ -1,0 +1,20 @@
+.container {
+    width: 650px !important;
+    margin: 20px;
+}
+
+.content {
+    margin: 20px 0;
+}
+
+.preview {
+    max-width: 100%;
+}
+
+.list-group-item{
+    display: flex;
+    align-items: flex-start;
+}
+.ml-10{
+    margin-left: 10px;
+}
